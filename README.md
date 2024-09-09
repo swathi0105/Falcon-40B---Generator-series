@@ -6,4 +6,4 @@ Falcon 40B is a causal decoder-only model that can be used for a variety of natu
 Falcon 40B's multilingual skills include English, German, Spanish, and French, as well as minimal competency in Italian, Portuguese, Polish, Dutch, Romanian, Czech, and Swedish.
 
 
-multi-head attention, positional encoding, and feed-forward neural networks.
+#multi-Query_attention, #positional_encoding, and #feed-forward_neuralnetworks.
